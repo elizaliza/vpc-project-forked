@@ -1,10 +1,14 @@
-# vpc-project
-vpc -project3
+###PROJECTS 3
 
-a. Creating the VPC:
-Navigate to the VPC Dashboard
-Click on "Create VPC"
-Choose "VPC only" and click "Select"
-Put the name of the VPC  
-Configure your VPC settings as needed.
+##REQUIREMENTS
+
+• Create VPC with all required components
+• Create EC2 Instance inside of newly created VPC
+• Create 2 S3 buckets
+Upload 1 file to one of the buckets
+• Ssh to EC2 Instance and copy a file from one bucket to another using aws cli (You will
+need to work with permissions)
+
+
+
 
