@@ -1,6 +1,6 @@
-###PROJECTS 3
+### PROJECTS 3
 
-##REQUIREMENTS
+## REQUIREMENTS
 
 • Create VPC with all required components
 • Create EC2 Instance inside of newly created VPC
