@@ -103,15 +103,15 @@
 
 * Choose you EC2 instance, click on connect and connect  
 * To list the all the buckets in your account use command 
-  aws s3 ls
+  aws s3 ls 
 * To list content of the bucket use command below
-  aws s3 ls s3://damira-bucket1
+  aws s3 ls s3://damira-bucket1 
 * To copy the file from s3 bucket1 to EC2 instance use command below
-  aws s3 cp s3://damira-bucket1/eliza.txt . 
+  aws s3 cp s3://damira-bucket1/eliza.txt .   
 * To copy file from EC2 instance to S3 bucket2
-  aws s3 cp eliza.txt s3://damira-bucket2
+  aws s3 cp eliza.txt s3://damira-bucket2  
 * To confirm file was copied to bucket2, run command below
-  aws s3 ls s3://damira-bucket2
+  aws s3 ls s3://damira-bucket2  
 * You may also check from the console clicking on bucket2
 
 
