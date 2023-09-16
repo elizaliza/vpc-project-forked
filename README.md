@@ -1,5 +1,4 @@
-## PROJECTS 3
-
+## PROJECT-3
 ### REQUIREMENTS
 
 *  Create VPC with all required components
@@ -119,13 +118,13 @@ This project involves setting up a basic infrastructure on AWS, consisting of an
 * You may also check from the console clicking on bucket2
 
 
-| Participants | Time Spent |
-| ------------ | ---------- |
-| Amela        | 10         |
-| Eliza        | 10         |
-| Damira       | 10         |
-| Mukhiddin    | 10         |
-| John         | 10         |
+| Participants | Time Spent hrs |
+| ------------ | -------------- |
+| Amela        | 10             |
+| Eliza        | 10             |
+| Damira       | 10             |
+| Mukhiddin    | 10             |
+| John         | 10             |
 
 
 
