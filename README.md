@@ -13,7 +13,7 @@ AWS Project Documentation
 Project Overview
 This project involves setting up a basic infrastructure on AWS, consisting of an EC2 instance running within a custom VPC. This VPC will have its own isolated network with a subnet and a connection to the internet through an Internet Gateway.
 
-#### Create and Verify your VPC
+## Create and Verify your VPC
 * Login to your aws account
 * Navigate to VPC service
 * Create VPC
@@ -32,7 +32,7 @@ This project involves setting up a basic infrastructure on AWS, consisting of an
 * Click the "Actions" button and choose "Attach to VPC".
 * Choose “*project3-vpc” from Available VPCs 
 
-##  Create subnets
+## Create subnets
 * Navigate to Subnets
 * Click the "Create subnet" button
 * Select the VPC “project3-vpc’
