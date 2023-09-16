@@ -9,10 +9,6 @@
 *  Ssh to EC2 Instance and copy a file from one bucket to another using aws cli (You will
   need to work with permissions)
 
-AWS Project Documentation
-Project Overview
-This project involves setting up a basic infrastructure on AWS, consisting of an EC2 instance running within a custom VPC. This VPC will have its own isolated network with a subnet and a connection to the internet through an Internet Gateway.
-
 ## Create and Verify your VPC
 * Login to your aws account
 * Navigate to VPC service
